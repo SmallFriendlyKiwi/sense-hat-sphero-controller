@@ -1,2 +1,2 @@
-# studious-telegram
-sense-hat-sphero-controller
+# sense-hat-sphero-controller
+Raspberry Pi Sense Hat Sphero Controller
